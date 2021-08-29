@@ -1,1 +1,1 @@
-# ssm355-class-1
+# ssm-355-class-1
